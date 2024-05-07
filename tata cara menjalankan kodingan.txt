@@ -1,0 +1,13 @@
+Tata cara menjalankan kode:
+
+1. Menginstall text editor VSCode ( tutorial : https://code.visualstudio.com/docs/setup/windows)
+2. Membuka cmd untuk melakukan instalasi python
+3. Mengetik pada cmd 'pip install python', lalu tekan enter.
+4. Menunggu hingga proses install selesai, kemudian buka VScode.
+5. Setelah berada di home, Membuka tab Ekstension yang terletak di bagian kiri menu
+6. Mencari 'jupyter notebook' pada kolom pencarian ekstension.
+7. Melakukan instalasi ekstensi dengan mengklik tompol install.
+8. Buka file kodingan, skenario yang ada pada penelitian memiliki file yang terpisah.
+9. Sebelum dijalankan pastikan path folder sudah sesuai, untuk tahap ini tidak perlu dilakukan konfigurasi jika tata letak file tidak diubah.
+10. Mengeksekusi program secara sequensial atau dari bawah hingga atas.
+11. Pengeksekusian program umumnya memakan waktu lama, terutama pada skenario 3. Harap menunggu hingga selesai.
